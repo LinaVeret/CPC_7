@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UI_CPC_7</string>
+    <string name="or">or</string>
+    <string name="make_your_choice">make your choice</string>
+    <string name="red_pill">red pill</string>
+    <string name="blu_pill">blu pill</string>
+    <string name="like">Like</string>
+    <string name="floatText">не стреляйте пианиста-\n он играет как умеет</string>
+</resources>
